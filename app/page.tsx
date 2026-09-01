@@ -151,21 +151,15 @@ export default function Home() {
 
             {/* ================= DESCRIPTION ================= */}
             <p className="mt-6 max-w-xl text-base leading-7 text-gray-300 sm:text-lg">
-
-              I build modern, responsive and user-friendly web
-              applications while exploring Artificial Intelligence,
-              Machine Learning and Data Science.
-
+              I enjoy building practical web applications and turning
+              ideas into simple, useful digital experiences.
             </p>
 
-            <p className="mt-3 max-w-xl text-base leading-7 text-gray-400 sm:text-lg">
-
-              Currently pursuing BCA and continuously improving my
-              development, analytical and problem-solving skills
-              through real-world projects and internships.
-
+              <p className="mt-3 max-w-xl text-base leading-7 text-gray-400 sm:text-lg">
+              I&apos;m currently pursuing BCA and exploring web development,
+              AI/ML and data science through projects, internships and
+              continuous learning.
             </p>
-
 
             {/* ================= SKILLS ================= */}
             <div className="mt-6 flex max-w-xl flex-wrap gap-2.5">
