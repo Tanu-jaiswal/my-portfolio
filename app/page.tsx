@@ -10,7 +10,7 @@ export default function Home() {
         style={{
           backgroundImage: "url('/image.jpeg')",
           backgroundSize: "120% auto",
-          backgroundPosition: "0% 50%",
+          backgroundPosition: "0% 40 %",
         }}
       />
 
