@@ -14,6 +14,9 @@ const projects = [
     "Interactive components",
     "User-friendly design",
     "Modern web development",
+    Live link:[
+      https://my-portfolio-vercel-olive.vercel.app
+    ]
   ],
 },
   {
