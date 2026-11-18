@@ -270,7 +270,7 @@ export default function About() {
                 <div className="mt-7">
 
                   <p className="text-4xl font-black text-amber-400">
-                    9.1
+                    9.03
                   </p>
 
                   <p className="mt-2 text-sm text-gray-500">

@@ -2,7 +2,22 @@ import Link from "next/link";
 
 const projects = [
   {
-    number: "01",
+  number: "01",
+  title: "FixMate",
+  category: "Web Development",
+  date: "November 2026",
+  description:
+    "FixMate is a React-based web application designed to provide users with a simple and user-friendly platform for managing their needs.",
+  technologies: ["React.js", "JavaScript", "HTML", "CSS"],
+  highlights: [
+    "Responsive user interface",
+    "Interactive components",
+    "User-friendly design",
+    "Modern web development",
+  ],
+},
+  {
+    number: "02",
     title: "Frontend Resume Builder",
     category: "Web Development",
     date: "March 2026",
@@ -17,7 +32,7 @@ const projects = [
     ],
   },
   {
-    number: "02",
+    number: "03",
     title: "Sudoku Solver",
     category: "Data Structures & Algorithms",
     date: "November 2025",
@@ -32,7 +47,7 @@ const projects = [
     ],
   },
   {
-    number: "03",
+    number: "04",
     title: "QR Code Scanner",
     category: "Python Project",
     date: "March 2025",
